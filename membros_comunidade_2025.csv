@@ -1,0 +1,25 @@
+ID_Membro,Nome,Data_Cadastro,Idade,Bairro_Dublin,Participa_Pequeno_Grupo,Ministerio_Voluntario,Doacao_Mensal_Media_EUR,Forma_Contribuicao
+2001,Lucas Almeida,2025-01-12,31,D1,Sim,Louvor,80.00,App
+2002,Beatriz Nunes,2025-01-19,27,D8,Nao,Nenhum,20.00,Pix
+2003,Tiago Costa,2025-02-02,45,D2,Sim,Recepcao,150.00,App
+2004,Juliana Martins,2025-02-16,22,D7 (Rathmines),Sim,Midia,50.00,Pix
+2005,Marcos Oliveira,2025-03-09,38,D1,Nao,Nenhum,30.00,Envelope
+2006,Larissa Pereira,2025-03-23,29,D6 (Ranelagh),Sim,Infantil,100.00,App
+2007,Rafael Gomes,2025-04-06,51,D2,Sim,Recepcao,200.00,App
+2008,Carla Sousa,2025-04-20,24,D8,Sim,Louvor,50.00,Pix
+2009,Fernando Dias,2025-05-04,33,D7 (Rathmines),Nao,Nenhum,10.00,Envelope
+2010,Patricia Rocha,2025-05-18,36,D6 (Ranelagh),Sim,Infantil,80.00,Pix
+2011,Gustavo Borges,2025-06-01,28,D1,Sim,Midia,60.00,App
+2012,Sandra Ferreira,2025-06-15,42,D2,Nao,Nenhum,120.00,App
+2013,Ricardo Lima,2025-07-07,30,D8,Sim,Louvor,70.00,Pix
+2014,Vanessa Barbosa,2025-07-21,26,D7 (Rathmines),Sim,Nenhum,40.00,App
+2015,Bruno Santos,2025-08-03,49,D1,Nao,Nenhum,25.00,Envelope
+2016,Aline Ribeiro,2025-08-17,23,D6 (Ranelagh),Sim,Midia,50.00,Pix
+2017,Eduardo Carvalho,2025-09-01,34,D2,Sim,Recepcao,150.00,App
+2018,Fernanda Melo,2025-09-14,39,D8,Nao,Nenhum,30.00,Pix
+2019,Leonardo Azevedo,2025-10-05,29,D7 (Rathmines),Sim,Infantil,100.00,App
+2020,Roberta Campos,2025-10-19,31,D6 (Ranelagh),Sim,Nenhum,50.00,Envelope
+2021,Felipe Andrade,2025-11-02,27,D1,Sim,Louvor,80.00,Pix
+2022,Camila Justino,2025-11-16,35,D2,Sim,Midia,120.00,App
+2023,Daniel Morais,2025-12-07,41,D8,Nao,Nenhum,20.00,Envelope
+2024,Priscila Tavares,2025-12-21,28,D7 (Rathmines),Sim,Recepcao,70.00,App
